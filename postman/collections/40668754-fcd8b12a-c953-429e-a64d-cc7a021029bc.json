@@ -125,6 +125,11 @@
 			"key": "Local Env",
 			"value": "",
 			"type": "default"
+		},
+		{
+			"key": "STAR_SHOP_DEV",
+			"value": "",
+			"type": "default"
 		}
 	]
 }
