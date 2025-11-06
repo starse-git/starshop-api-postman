@@ -117,7 +117,7 @@
 			"name": "Brands",
 			"item": [
 				{
-					"name": "New Request",
+					"name": "All Brands",
 					"id": "40668754-34830cfe-373f-4665-8845-b27b0a380cc3",
 					"protocolProfileBehavior": {
 						"disableBodyPruning": true
