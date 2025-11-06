@@ -123,8 +123,30 @@
 						"disableBodyPruning": true
 					},
 					"request": {
+						"auth": {
+							"type": "bearer",
+							"bearer": [
+								{
+									"key": "token",
+									"value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ5YW5uYWluZ3N0YXJ0ZWNoQGdtYWlsLmNvbSIsImV4cCI6MTc2MzY5NDc2MiwiaWF0IjoxNzYyMzk4NzYyfQ.d0N6W6cH3lX1nqDBIeGtekkOUVx3Q3JKSjmm9FoKeE0",
+									"type": "string"
+								}
+							]
+						},
 						"method": "GET",
-						"header": []
+						"header": [],
+						"url": {
+							"raw": "{{Local Env}}/api/v1/admin/brands",
+							"host": [
+								"{{Local Env}}"
+							],
+							"path": [
+								"api",
+								"v1",
+								"admin",
+								"brands"
+							]
+						}
 					},
 					"response": []
 				}
