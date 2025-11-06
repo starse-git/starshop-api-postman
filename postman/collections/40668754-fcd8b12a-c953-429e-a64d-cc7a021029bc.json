@@ -119,5 +119,12 @@
 			],
 			"id": "40668754-7180545d-7a9a-441c-a8c3-ae7b1c7778f9"
 		}
+	],
+	"variable": [
+		{
+			"key": "Local Env",
+			"value": "",
+			"type": "default"
+		}
 	]
 }
