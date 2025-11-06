@@ -114,48 +114,49 @@
 			"id": "40668754-7180545d-7a9a-441c-a8c3-ae7b1c7778f9"
 		},
 		{
-			"name": "Brands",
+			"name": "Admin",
 			"item": [
 				{
-					"name": "All Brands",
-					"id": "40668754-34830cfe-373f-4665-8845-b27b0a380cc3",
-					"protocolProfileBehavior": {
-						"disableBodyPruning": true
-					},
-					"request": {
-						"auth": {
-							"type": "bearer",
-							"bearer": [
-								{
-									"key": "token",
-									"value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ5YW5uYWluZ3N0YXJ0ZWNoQGdtYWlsLmNvbSIsImV4cCI6MTc2MzY5NDc2MiwiaWF0IjoxNzYyMzk4NzYyfQ.d0N6W6cH3lX1nqDBIeGtekkOUVx3Q3JKSjmm9FoKeE0",
-									"type": "string"
+					"name": "Brands",
+					"item": [
+						{
+							"name": "All Brands",
+							"id": "40668754-34830cfe-373f-4665-8845-b27b0a380cc3",
+							"protocolProfileBehavior": {
+								"disableBodyPruning": true
+							},
+							"request": {
+								"auth": {
+									"type": "bearer",
+									"bearer": [
+										{
+											"key": "token",
+											"value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ5YW5uYWluZ3N0YXJ0ZWNoQGdtYWlsLmNvbSIsImV4cCI6MTc2MzY5NDc2MiwiaWF0IjoxNzYyMzk4NzYyfQ.d0N6W6cH3lX1nqDBIeGtekkOUVx3Q3JKSjmm9FoKeE0",
+											"type": "string"
+										}
+									]
+								},
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "{{Local Env}}/api/v1/admin/brands",
+									"host": [
+										"{{Local Env}}"
+									],
+									"path": [
+										"api",
+										"v1",
+										"admin",
+										"brands"
+									]
 								}
-							]
-						},
-						"method": "GET",
-						"header": [],
-						"url": {
-							"raw": "{{Local Env}}/api/v1/admin/brands",
-							"host": [
-								"{{Local Env}}"
-							],
-							"path": [
-								"api",
-								"v1",
-								"admin",
-								"brands"
-							]
+							},
+							"response": []
 						}
-					},
-					"response": []
+					],
+					"id": "40668754-5edc735e-7a26-47d7-861b-2d7adfa422b2"
 				}
 			],
-			"id": "40668754-5edc735e-7a26-47d7-861b-2d7adfa422b2"
-		},
-		{
-			"name": "Admin",
-			"item": [],
 			"id": "40668754-223fcae9-57a3-4446-931c-0e76b15a503f"
 		}
 	],
