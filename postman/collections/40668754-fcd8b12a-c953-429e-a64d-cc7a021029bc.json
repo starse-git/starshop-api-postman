@@ -115,7 +115,20 @@
 		},
 		{
 			"name": "Brands",
-			"item": [],
+			"item": [
+				{
+					"name": "New Request",
+					"id": "40668754-34830cfe-373f-4665-8845-b27b0a380cc3",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				}
+			],
 			"id": "40668754-5edc735e-7a26-47d7-861b-2d7adfa422b2"
 		}
 	],
