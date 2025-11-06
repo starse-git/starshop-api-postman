@@ -118,30 +118,6 @@
 				}
 			],
 			"id": "40668754-7180545d-7a9a-441c-a8c3-ae7b1c7778f9"
-		},
-		{
-			"name": "test",
-			"id": "40668754-01d71b43-a16a-4c12-8e3c-6ed6affab6eb",
-			"protocolProfileBehavior": {
-				"disableBodyPruning": true
-			},
-			"request": {
-				"method": "GET",
-				"header": []
-			},
-			"response": []
-		},
-		{
-			"name": "hello",
-			"id": "40668754-370214ed-3ad4-4587-b150-38659bcd24f4",
-			"protocolProfileBehavior": {
-				"disableBodyPruning": true
-			},
-			"request": {
-				"method": "GET",
-				"header": []
-			},
-			"response": []
 		}
 	]
 }
