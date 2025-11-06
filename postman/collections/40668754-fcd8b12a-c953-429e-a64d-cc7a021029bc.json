@@ -27,9 +27,9 @@
 							}
 						},
 						"url": {
-							"raw": "{{STAR_SHOP_HONBAN}}/api/v1/login",
+							"raw": "{{Local Env}}/api/v1/login",
 							"host": [
-								"{{STAR_SHOP_HONBAN}}"
+								"{{Local Env}}"
 							],
 							"path": [
 								"api",
