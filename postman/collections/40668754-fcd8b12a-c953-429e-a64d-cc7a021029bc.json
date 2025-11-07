@@ -19,7 +19,7 @@
 						"header": [],
 						"body": {
 							"mode": "raw",
-							"raw": "{\n    \"email\": \"yannaingstartech@gmail.com\",\n    \"password\": \"12345678\"\n}",
+							"raw": "{\n    \"email\": \"yannainghtwe.777.yy@gmail.com\",\n    \"password\": \"12345678\"\n}",
 							"options": {
 								"raw": {
 									"language": "json"
@@ -54,7 +54,7 @@
 						"header": [],
 						"body": {
 							"mode": "raw",
-							"raw": "{\n    \"name\": \"Yan Naing Htwe\",\n    \"email\": \"yannaingstartech@gmail.com\",\n    \"password\": \"12345678\"\n}",
+							"raw": "{\n    \"name\": \"Yan Naing Htwe\",\n    \"email\": \"yannainghtwe.777.yy@gmail.com\",\n    \"password\": \"12345678\"\n}",
 							"options": {
 								"raw": {
 									"language": "json"
@@ -62,9 +62,9 @@
 							}
 						},
 						"url": {
-							"raw": "{{STAR_SHOP_HONBAN}}/api/v1/register",
+							"raw": "{{Local Env}}/api/v1/register",
 							"host": [
-								"{{STAR_SHOP_HONBAN}}"
+								"{{Local Env}}"
 							],
 							"path": [
 								"api",
@@ -89,7 +89,7 @@
 						"header": [],
 						"body": {
 							"mode": "raw",
-							"raw": "{\n    \"name\": \"Yan Naing Htwe\",\n    \"email\": \"yannaingstartech@gmail.com\",\n    \"code\": \"695122\",\n    \"password\": \"12345678\"\n}",
+							"raw": "{\n    \"name\": \"Yan Naing Htwe\",\n    \"email\": \"yannainghtwe.777.yy@gmail.com\",\n    \"code\": \"056254\",\n    \"password\": \"12345678\"\n}",
 							"options": {
 								"raw": {
 									"language": "json"
@@ -97,9 +97,9 @@
 							}
 						},
 						"url": {
-							"raw": "{{STAR_SHOP_HONBAN}}/api/v1/verify",
+							"raw": "{{Local Env}}/api/v1/verify",
 							"host": [
-								"{{STAR_SHOP_HONBAN}}"
+								"{{Local Env}}"
 							],
 							"path": [
 								"api",
