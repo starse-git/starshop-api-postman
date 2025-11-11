@@ -160,9 +160,14 @@
 			"id": "40668754-223fcae9-57a3-4446-931c-0e76b15a503f"
 		},
 		{
-			"name": "New Folder",
+			"name": "Regular",
 			"item": [],
 			"id": "40668754-f5d9d7d0-a366-4b6c-b919-98b62afaed0a"
+		},
+		{
+			"name": "FC",
+			"item": [],
+			"id": "40668754-60f81f20-fdd4-4ff3-8e52-311faec7806f"
 		}
 	],
 	"variable": [
