@@ -131,7 +131,7 @@
 									"bearer": [
 										{
 											"key": "token",
-											"value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ5YW5uYWluZ2h0d2UuNzc3Lnl5QGdtYWlsLmNvbSIsImV4cCI6MTc2NDE3MDExNSwiaWF0IjoxNzYyODc0MTE1fQ.Prst3PXrThZLW2OfhFXC5Hox3mXqcYcYTvyOlbeoHgE",
+											"value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ5YW5uYWluZ2h0d2UuNzc3Lnl5QGdtYWlsLmNvbSIsImV4cCI6MTc2NDE3MjQyNywiaWF0IjoxNzYyODc2NDI3fQ.hdcjWZEFfPLNVVPujdTfflODlahGeBFzJHhJr0SL5Yg",
 											"type": "string"
 										}
 									]
@@ -139,14 +139,14 @@
 								"method": "GET",
 								"header": [],
 								"url": {
-									"raw": "{{Local Env}}/api/v1/user/brands",
+									"raw": "{{STAR_SHOP_DEV}}/api/v1/admin/brands",
 									"host": [
-										"{{Local Env}}"
+										"{{STAR_SHOP_DEV}}"
 									],
 									"path": [
 										"api",
 										"v1",
-										"user",
+										"admin",
 										"brands"
 									]
 								}
