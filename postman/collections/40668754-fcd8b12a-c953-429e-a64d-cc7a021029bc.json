@@ -89,7 +89,7 @@
 						"header": [],
 						"body": {
 							"mode": "raw",
-							"raw": "{\n    \"name\": \"Yan Naing Htwe\",\n    \"email\": \"yannainghtwe.777.yy@gmail.com\",\n    \"code\": \"056254\",\n    \"password\": \"12345678\"\n}",
+							"raw": "{\n    \"name\": \"Yan Naing Htwe\",\n    \"email\": \"yannainghtwe.777.yy@gmail.com\",\n    \"code\": \"147722\",\n    \"password\": \"12345678\"\n}",
 							"options": {
 								"raw": {
 									"language": "json"
@@ -131,7 +131,7 @@
 									"bearer": [
 										{
 											"key": "token",
-											"value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ5YW5uYWluZ3N0YXJ0ZWNoQGdtYWlsLmNvbSIsImV4cCI6MTc2MzY5NDc2MiwiaWF0IjoxNzYyMzk4NzYyfQ.d0N6W6cH3lX1nqDBIeGtekkOUVx3Q3JKSjmm9FoKeE0",
+											"value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ5YW5uYWluZ2h0d2UuNzc3Lnl5QGdtYWlsLmNvbSIsImV4cCI6MTc2NDE3MDExNSwiaWF0IjoxNzYyODc0MTE1fQ.Prst3PXrThZLW2OfhFXC5Hox3mXqcYcYTvyOlbeoHgE",
 											"type": "string"
 										}
 									]
@@ -139,14 +139,14 @@
 								"method": "GET",
 								"header": [],
 								"url": {
-									"raw": "{{Local Env}}/api/v1/admin/brands",
+									"raw": "{{Local Env}}/api/v1/user/brands",
 									"host": [
 										"{{Local Env}}"
 									],
 									"path": [
 										"api",
 										"v1",
-										"admin",
+										"user",
 										"brands"
 									]
 								}
