@@ -27,9 +27,9 @@
 							}
 						},
 						"url": {
-							"raw": "{{Local Env}}/api/v1/login",
+							"raw": "{{STAR_SHOP_DEV}}/api/v1/login",
 							"host": [
-								"{{Local Env}}"
+								"{{STAR_SHOP_DEV}}"
 							],
 							"path": [
 								"api",
